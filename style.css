@@ -73,4 +73,18 @@ body {
   .addButton {
       color: crimson;
   }
-  
+  .content {
+      color: rgb(124, 169, 46);
+  }
+  .AddLable {
+      color: deeppink;
+  }
+  .EventLable {
+      color: deepskyblue;
+  }
+  .TimeLable {
+      color: goldenrod;
+  }
+  .TimeColor{
+      color: indianred;
+  }
