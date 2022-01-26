@@ -3,7 +3,7 @@ The purpose of the day planner is to help create increments of time on a digital
 
 
 
-Live site: 
+Live site: https://robertkelly03.github.io/Day-Planner-Homework/
 
 
 Pictures of current deployment: 
