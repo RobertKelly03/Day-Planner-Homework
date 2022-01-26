@@ -7,4 +7,5 @@ Live site: https://robertkelly03.github.io/Day-Planner-Homework/
 
 
 Pictures of current deployment: 
-![Screen Shot 2022-01-25 at 11 45 07 PM](https://user-images.githubusercontent.com/55413812/151122925-36a62295-b520-4a84-8e1d-ea7883c3eb31.png)
+
+![Screen Shot 2022-01-25 at 11 56 24 PM](https://user-images.githubusercontent.com/55413812/151124272-ffe94258-6ad2-44e5-b6a1-3b58fc20e4e1.png)
