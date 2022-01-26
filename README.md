@@ -4,3 +4,6 @@ The purpose of the day planner is to help create increments of time on a digital
 
 
 Live site: 
+
+
+Pictures of current deployment: 
